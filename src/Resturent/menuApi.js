@@ -88,10 +88,11 @@ const Menu = [
       image: "../images/wadapav.jpg",
       name: "wadapav",
       category: "ToDaySpecial",
-      price: "10₹",
+      price: "20₹",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
     },
+    
   ];
   
   export default Menu;
